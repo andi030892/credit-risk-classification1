@@ -54,3 +54,5 @@ The resampled data was used to build a new logistic regression model (Logistic R
 Logistic Regression Model 2 is less likely to predict false negative results. However, based on the confusion matrices for each model, Logistic Regression Model 2 predicted slightly more false positives (low-risk when the actual was high-risk). 
 
 If the goal of the model is to determine the likelihood of high-risk loans, neither model scores above 90% precision. Logistic Regression Model 2 had fewer false predictions of the testing data overall and would be the best model to use based on the high accuracy and recall of this model.
+
+WORKED WITH ADAM GLANTZ ON THIS CHALLENGE
